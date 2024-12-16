@@ -14,6 +14,5 @@ new_listMascotas = filter(autorizator, listMascotas)
 
 for animal in new_listMascotas: print(animal)
 
-"""
-Aparentemente, se puede tener un dragon de Komodo como mascota ¯\_(ツ)_/¯
-"""
+
+# Aparentemente, se puede tener un dragon de Komodo como mascota ¯\_(ツ)_/¯
