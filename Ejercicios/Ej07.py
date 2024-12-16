@@ -1,5 +1,5 @@
 """
-7. Genera una función que convierta una lista de tuplas a una lista de strings. Usa la función map(
+7. Genera una función que convierta una lista de tuplas a una lista de strings. Usa la función map()
 """
 
 def converter(thing):
