@@ -1,6 +1,8 @@
 """
 25. Crea una función que cuente el número de caracteres en una cadena de texto dada.
 """
+# Seria mas optimo utilizar un len(texto), pero he pensado que utilizar el bucle for con el operador += era lo que habia de demostrar ya que el enunciado pide
+# que la función "cuente el numero de caracteres".
 
 def charCount(string):
     total = 0
