@@ -1,5 +1,5 @@
 """
-27. Crea una función lambda que calcule el resto de la división entre dos números dados.
+27.  Crea una función que calcule el promedio de una lista de números.
 """
 
 def promedier(numList):
